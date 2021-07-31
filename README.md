@@ -3,7 +3,8 @@
 - ⚡ Fun fact You don't know that code.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tathaastu-tarun&label=Profile%20views&color=0e75b6&style=flat" alt="tathaastu-tarun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tathaastu-tarun" alt="tathaastu-tarun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=tathaastu-tarun&theme=onedark" alt="tathaastu-tarun" /></a>
+ </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -29,8 +30,8 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tathaastu-tarun&show_icons=true&locale=en&layout=compact" alt="tathaastu-tarun" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tathaastu-tarun&show_icons=true&locale=en&layout=compact&theme=onedark" alt="tathaastu-tarun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tathaastu-tarun&show_icons=true&locale=en" alt="tathaastu-tarun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tathaastu-tarun&show_icons=true&locale=en&theme=onedark" alt="tathaastu-tarun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tathaastu-tarun&" alt="tathaastu-tarun" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tathaastu-tarun&theme=onedark" alt="tathaastu-tarun" /></p>
