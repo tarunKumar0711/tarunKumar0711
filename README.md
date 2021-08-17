@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">Life is already coded, we are just trying different testcases here.</h3>
 
-- 🔭 I’m currently working on Frontend Development Skills 
+- 🔭 I’m currently working on Frontend Development Skills and Problem Solving Skills
 - 🌱 I’m currently learning MERN Stack, DSA 
 - ⚡ Fun fact You don't know that code.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tathaastu-tarun&label=Profile%20views&color=0e75b6&style=flat" alt="tathaastu-tarun" /> </p>
