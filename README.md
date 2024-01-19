@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on Frontend Development Skills and Problem Solving Skills
 - 🌱 I’m currently learning MERN Stack, DSA 
 - ⚡ Fun fact You don't know that code.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tathaastu-tarun&label=Profile%20views&color=0e75b6&style=flat" alt="tathaastu-tarun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunKumar0711&label=Profile%20views&color=0e75b6&style=flat" alt="tarunKumar0711" /> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tathaastu-tarun)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tarunKumar0711)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=tathaastu-tarun&theme=onedark" alt="tathaastu-tarun" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=tarunKumar0711&theme=onedark" alt="tarunKumar0711" /></a>
  </p>
 
   
