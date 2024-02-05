@@ -44,7 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunKumar0711&show_icons=true&locale=en&theme=onedark" alt="tarunKumar0711" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumar0711&theme=onedark" alt="tarunKumar0711" /></p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tarunKumar0711)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarunKumar0711)
