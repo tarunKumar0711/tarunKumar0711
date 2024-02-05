@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">Life is already coded, we are just trying different testcases here.</h3>
 
-- 🔭 I’m currently working on Frontend Development Skills and Problem Solving Skills
-- 🌱 I’m currently learning MERN Stack, DSA 
+- 🔭 I am honing my dev and DSA Skills
+- 🌱 I’m currently learning Spring Boot, React
+- 👯 I’m looking to collaborate in web dev projects
+- 💬 Ask me About Web development and Web Technolgies.
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:kumar0711tarun@gmail.com) 
 - ⚡ Fun fact You don't know that code.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunKumar0711&label=Profile%20views&color=0e75b6&style=flat" alt="tarunKumar0711" /> </p>
 
