@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
-<h3 align="center">Life is already coded, we are just trying different testcases here.</h3>
 
 - 🔭 I am honing my dev and DSA Skills
 - 🌱 I’m currently learning Spring Boot, React
