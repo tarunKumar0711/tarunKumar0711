@@ -36,7 +36,6 @@
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="jdbc" width="40" height="40"/> </a>
  <a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
- <a href="https://microservices.io/" target="_blank"> <img src="https://microservices.io/images/patterns/microservices.jpg" alt="microservices" width="40" height="40"/> </a>
 </p>
 
 
